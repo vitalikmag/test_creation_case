@@ -1,0 +1,3 @@
+*cache*
+.idea
+/test_creation_app/db.sqlite3
